@@ -1,4 +1,4 @@
-# NodeJS TypeScript Jest ESLint sample
+# TypeScript NodeJS sample with Jest and ESLint
 
 ## Install dependencies
 
