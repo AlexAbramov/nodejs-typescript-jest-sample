@@ -1,6 +1,4 @@
-# nodejs-typescript-jest-sample
-
-NodeJS TypeScript Jest ESLint sample
+# NodeJS TypeScript Jest ESLint sample
 
 ## Install dependencies
 
