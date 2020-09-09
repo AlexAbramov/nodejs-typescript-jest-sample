@@ -1,6 +1,6 @@
 # nodejs-typescript-jest-sample
 
-NodeJS TypeScript Jest sample
+NodeJS TypeScript Jest ESLint sample
 
 ## Install dependencies
 
@@ -17,3 +17,7 @@ npm run test
 ## Run
 
 npm start
+
+## Lint
+
+npm run lint
